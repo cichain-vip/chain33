@@ -6,10 +6,10 @@
 #### 编译
 
 ```
-git clone https://github.com/racalwang/tschain.git $GOPATH/src/github.com/racalwang/tschain
-cd $GOPATH/src/github.com/racalwang/tschain
-go build -i -o ts
-go build -i -o ts-cli github.com/racalwang/tschain/cli
+git clone https://github.com/cichain-vip/cichian.git $GOPATH/src/github.com/cichain-vip/cichian
+cd $GOPATH/src/github.com/cichain-vip/cichian
+go build -i -o cic
+go build -i -o cic-cli github.com/cichain-vip/cichian/cli
 ```
 
 #### 运行
