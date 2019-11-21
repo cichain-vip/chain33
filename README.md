@@ -14,10 +14,10 @@ go build -i -o cic-cli github.com/cichain-vip/cichian/cli
 
 #### 运行
 
-拷贝编译好的cic, cic-cli, cicChain.toml这三个文件置于同一个文件夹下，执行：
+拷贝编译好的cic, cic-cli, cichain.toml这三个文件置于同一个文件夹下，执行：
 
 ```
-./cic -f cicChain.toml
+./cic -f cichain.toml
 ```
 
 
